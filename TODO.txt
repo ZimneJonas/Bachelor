@@ -1,0 +1,5 @@
+Done:
+-read into clindo(dl)
+-getting used to PDDL
+-Share git
+ I am here
