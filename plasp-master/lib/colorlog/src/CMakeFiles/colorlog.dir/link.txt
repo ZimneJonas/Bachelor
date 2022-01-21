@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../libcolorlog.a  CMakeFiles/colorlog.dir/colorlog/Logger.cpp.o
-/usr/bin/ranlib ../../libcolorlog.a
