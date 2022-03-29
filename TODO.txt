@@ -1,5 +1,12 @@
+-writing basic regular expression translation
+-implementing own asp encoding
+-understanding original encoding
+-Extend languge by extending encoding?
+-Regex translation
+
+
+
 Done:
 -read into clindo(dl)
 -getting used to PDDL
 -Share git
- I am here
